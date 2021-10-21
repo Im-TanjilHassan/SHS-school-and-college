@@ -1,0 +1,13 @@
+.thumbneil img{
+    width: 311px;
+    height: 162px;
+    margin-top: 10px;
+}
+
+.card:hover{
+    background: linear-gradient(rgba(255, 254, 254, 0.5), rgba(15, 35, 8, 0.5));
+    box-shadow: 15px 3px 10px rgb(10 10 10 / 0.2);
+    border: 2px solid gray;
+    transition: 200ms;
+    cursor: pointer;
+}

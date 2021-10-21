@@ -1,0 +1,26 @@
+.header-container{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(15, 68, 200, 0.5)) ,url(../../img/img1.jpg);
+    width: 100%;
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5%;
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    margin-right: 50px;
+    padding: 15px;
+    border: 2px solid #2CEEDD;
+    border-radius: 30px;
+    background-color: #2CEEDD;
+    color: black;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background-color: rgba(44, 238, 221,0.0);
+    color: white;
+}
