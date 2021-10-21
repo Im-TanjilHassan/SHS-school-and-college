@@ -7,3 +7,5 @@ This is a project of some IT course that u can learn at home online there are so
 * this is an educational website
 * it is not responsive
 * there is some IT courses that u can learn
+* this it fully online based course
+* 
